@@ -1,0 +1,57 @@
+{
+  "name": "angularjs-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuigoto/angularjs-ts-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuigoto/angularjs-ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/yuigoto/angularjs-ts-boilerplate#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "@types/angular": "^1.6.54",
+    "@types/angular-route": "^1.7.0",
+    "@types/jquery": "^3.3.29",
+    "angular": "^1.7.8",
+    "angular-animate": "^1.7.8",
+    "angular-cookies": "^1.7.8",
+    "angular-filter": "^0.5.17",
+    "angular-i18n": "^1.7.8",
+    "angular-recaptcha": "^4.2.0",
+    "angular-route": "^1.7.8",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "del": "^4.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.4.0",
+    "gulp-if": "^2.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-shell": "^0.7.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "http-server": "^0.11.1",
+    "merge2": "^1.2.3",
+    "minimist": "^1.2.0",
+    "typescript": "^3.3.4000"
+  }
+}
