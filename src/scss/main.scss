@@ -1,0 +1,26 @@
+/**
+ * SCSS/Main
+ * --------------------------------------------------------------------
+ * Stylesheet principal.
+ * 
+ * @since 0.0.1
+ */
+
+// Variáveis
+// ----------------------------------------------------------------------
+$fa-font-path: "../fonts/";
+
+// Bibliotecas/Dependências
+// ----------------------------------------------------------------------
+@import "bootstrap/scss/bootstrap.scss";
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/regular.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";
+@import "@fortawesome/fontawesome-free/scss/brands.scss";
+@import "@fortawesome/fontawesome-free/scss/v4-shims.scss";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

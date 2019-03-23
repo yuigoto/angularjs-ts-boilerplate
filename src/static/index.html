@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zxx" ng-app="app">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>AngularJS/TypeScript Boilerplate</title>
+
+  <link rel="stylesheet" href="/assets/css/build.min.css">
+</head>
+<body>
+  <header ng-include="'base.header.html'"></header>
+  <main id="main" class="py-4" ng-view></main>
+  <footer ng-include="'base.footer.html'"></footer>
+
+  <script src="/assets/js/angular.min.js"></script>
+  <script src="/assets/js/bundle.min.js"></script>
+  <script src="/assets/js/build.min.js"></script>
+</body>
+</html>

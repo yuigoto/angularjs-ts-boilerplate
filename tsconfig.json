@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "amd", 
+    "declaration": true,
+    "baseUrl": "./",
+    "paths": {
+      "*": [
+        "src/ts/*",
+        "*"
+      ]
+    },
+    "outFile": "build.js"
+  },
+  "include": [
+    "src/ts/global/**/*",
+    "src/ts/utils/**/*",
+    "src/ts/enum/**/*",
+    "src/ts/dict/**/*",
+    "src/ts/types/**/*",
+    "src/ts/models/**/*",
+    "src/ts/App.ts",
+    "src/ts/**/*Module.ts",
+    "src/ts/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/ts/dummy"
+  ],
+  "types": [
+    "angular",
+    "angular-route",
+    "jquery",
+    "sizzle"
+  ]
+}
