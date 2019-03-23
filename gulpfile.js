@@ -3,8 +3,8 @@
  * ----------------------------------------------------------------------
  * Arquivo com tasks do Gulp.
  * 
- * @type {Object}
- * @since 0.0.1
+ * @type    {Object}
+ * @since   0.0.1
  */
 
 // Dependências

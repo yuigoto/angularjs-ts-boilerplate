@@ -1,3 +1,9 @@
+/**
+ * Core/DocsBr.Factory
+ * ----------------------------------------------------------------------
+ * @type    {angular.IModule.factory}
+ * @since   0.0.1
+ */
 Core.factory("DocsBrFactory", DocsBrFactory);
 
 // DI

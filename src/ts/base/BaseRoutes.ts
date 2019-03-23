@@ -1,8 +1,8 @@
 /**
  * Base/Base.Routes
  * ----------------------------------------------------------------------
- * @type {angular.IAngularBootstrapConfig}
- * @since 0.0.1
+ * @type    {angular.IAngularBootstrapConfig}
+ * @since   0.0.1
  */
 Base.config([
   "$routeProvider",

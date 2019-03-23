@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/yuigoto/angularjs-ts-boilerplate/issues"
   },
@@ -31,7 +31,6 @@
     "angular-recaptcha": "^4.2.0",
     "angular-route": "^1.7.8",
     "bootstrap": "^4.3.1",
-    "gulp-plumber": "^1.2.1",
     "jquery": "^3.3.1"
   },
   "devDependencies": {
@@ -43,6 +42,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-flatten": "^0.4.0",
     "gulp-if": "^2.0.2",
+    "gulp-plumber": "^1.2.1",
     "gulp-rename": "^1.4.0",
     "gulp-replace": "^1.0.0",
     "gulp-sass": "^4.0.2",

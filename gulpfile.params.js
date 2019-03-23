@@ -4,8 +4,8 @@
  * Arquivo com definições para execução, caminhos de projeto e options para 
  * plugins do Gulp.
  *
- * @type {Object}
- * @since 0.0.1
+ * @type    {Object}
+ * @since   0.0.1
  */
 module.exports = {
   /**

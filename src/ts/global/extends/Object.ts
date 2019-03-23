@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------
  * Global interface for Object, so we can extend it.
  * 
- * @since 0.0.1
+ * @since   0.0.1
  */
 interface Object {
   /**
