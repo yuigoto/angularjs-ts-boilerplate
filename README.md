@@ -1,16 +1,17 @@
-AngularJS + TypeScript Boilerplate
-==================================
+# AngularJS TypeScript Boilerplate
 
 > Um boilerplate para projetos AngularJS (1.7.x) com Gulp, Bootstrap 4, SCSS e TypeScript.
 
-O AngularJS está, muito em breve, chegando no seu EOL. Enquanto isso não acontece, aqui vai um boilerplate para projetos com ele! :wink:
+O AngularJS está, muito em breve, chegando no seu EOL. Enquanto isso não 
+
+----------------------------------------------------------------------
 
 ## Dependências
 
 - **NodeJS** `v8.x.x+`
 - **TypeScript** `v3.3.x+`
 
------
+----------------------------------------------------------------------
 
 ## Como Usar
 
@@ -21,9 +22,9 @@ Clone o repositório e dê `npm install` para que todas as dependências sejam i
 
 Caso tenha o `gulp-cli` instalado globalmente, você também pode executar tasks exportadas no `gulpfile.js`.
 
------
+----------------------------------------------------------------------
 
-## Estrutura de diretórios
+## Estrutura
 
 - `src` 
   - `assets`
@@ -48,12 +49,18 @@ Caso tenha o `gulp-cli` instalado globalmente, você também pode executar tasks
     - `global`
       > Contém tudo o que deve ser global e carregado/transpilado antes de tudo.
 
------
+----------------------------------------------------------------------
 
 ## Autores
 
-**Fabio Y. Goto**, São Paulo/BR ~ Desenvolvimento + Design.
+Veja `AUTHORS.md` para maiores informações.
 
------
+----------------------------------------------------------------------
 
-_®2019 Fabio Y. Goto_
+## Licença
+
+Este projeto está licenciado sob a `Licença MIT`. Veja o arquivo `LICENSE.md` para maiores detalhes sobre a licença (em inglês).
+
+----------------------------------------------------------------------
+
+_©2020 Fabio Y. Goto_
